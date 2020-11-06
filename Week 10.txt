@@ -1,5 +1,11 @@
 WEEK 10 : Project Code
 
+PROJECT WEBSITE : https://shanroy1999.github.io/Web-Programming-Project/
+MADE BY :
+1> SHANTANU ROY - RA1711003010835
+2> MIHIR SHAILENDRA LOVEKAR - RA1711003010811
+3> UJJWAL DADHICH - RA1711003010905
+
 ----------------------------------------
 CODE :
 
@@ -2532,9 +2538,3 @@ section{
 }
 
 -----------------------------------------------------------------------------------
-
-PROJECT WEBSITE : https://shanroy1999.github.io/Web-Programming-Project/
-MADE BY :
-1> SHANTANU ROY - RA1711003010835
-2> MIHIR SHAILENDRA LOVEKAR - RA1711003010811
-3> UJJWAL DADHICH - RA1711003010905
